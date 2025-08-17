@@ -1,3 +1,5 @@
+# Merged into the devel branch of the "ondemand" repo.
+
 # Batch Connect - OSC Code Server
 
 ![GitHub Release](https://img.shields.io/github/release/osc/bc_osc_codeserver.svg)
